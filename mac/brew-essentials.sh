@@ -17,7 +17,6 @@ brew tap homebrew/cask
 ## Apps I use
 # brew install alfred
 # brew install mackup
-# brew install dropbox
 # brew install google-backup-and-sync
 # brew install google-chrome #Chrome
 # brew install google-drive
@@ -30,18 +29,26 @@ brew install iterm2
 # brew install signal
 # brew install sketch
 # brew install slack
-# brew install spotify
-# brew install textexpander
-# brew install tower
 brew install visual-studio-code
-# brew install whatsapp
-# brew install zoom
+
+# editor
 brew install sublime-text
+
+# clipboard history
 brew install maccy
+
+# memory management
 brew install daisydisk
+
+# java related tools
 brew install jenv
 brew install jd-gui
+
+# mac calendar alternate
 brew install itsycal
+
+# best autocomplete
+brew install fig
 
 
 # Restore plists of apps
